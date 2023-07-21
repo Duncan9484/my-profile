@@ -20,7 +20,11 @@ background: linear-gradient(17deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 25%, rgba(
     
 }
 .content{
-    padding: 50px;
+    padding: 5px;
+   
+    margin-top: 10%;
+    
+    
 }
 
 @keyframes example {
@@ -46,23 +50,27 @@ animation-iteration-count: 1;
 from {background-color: red;}
 to {background-color: yellow;}
 from{height: 100px;}
-to{height: 568px;}
+to{height: 468px;}
 from{width: 100px;}
 to{width: 300px;}
+}
+h2{
+    font-size: 1px;
 }
 
 
 .circle {
 width: 300px;
-height: 568px;
+height: 468px;
 background-color: yellow;;
 animation-name: example;
 animation-duration: 1000ms;
 animation-iteration-count: 1;
+font-size: 10px;
 
 }
 .content{
-font-size: 15px;
+font-size: 10px;
 }
 }
 h1{
