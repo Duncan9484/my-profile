@@ -188,15 +188,13 @@ body {
    
    
  }
- .fontsize{
-    justify-content: center;
-    align-items: center;
-    display: block;
-    font-size: 10px;
-    
-   
-
+ @media (max-width: 500px){
+    .container{
+        font-size: 20px;
+    }
  }
- .button{
-    border-radius: 30px;
+ @media (min-width: 600px){
+    .container{
+        font-size: 40px;
+    }
  }
