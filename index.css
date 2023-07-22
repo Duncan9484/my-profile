@@ -113,4 +113,90 @@ body {
     margin-bottom: 5%;
   }
  
- 
+ .containerone{
+    font-size: 25%;
+    margin: 1% 10% 1% 10%;
+   
+ }
+ .containertwo{
+    font-size: 50%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containerthree{
+    font-size: 75%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containerfour{
+    font-size: 100%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containerfive{
+    font-size: 125%;
+    margin: 1% 10% 1% 10%;
+
+ }
+ .containersix{
+    font-size: 150%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containerseven{
+    font-size: 175%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containereight{
+    font-size: 200%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containernine{
+    font-size: 225%;
+    margin: 1% 10% 1% 10%;
+    
+ }
+ .containerten{
+    font-size: 250%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containereleven{
+    font-size: 275%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containertwelve{
+    font-size: 300%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containerthirteen{
+    font-size: 325%;
+    margin: 1% 10% 1% 10%;
+
+ }
+ .containerfourteen{
+    font-size: 350%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containerfifteen{
+    font-size: 375%;
+    margin: 1% 10% 1% 10%;
+ }
+ .containersixteen{
+    font-size: 400%;
+    margin: 1% 10% 1% 10%;
+ }
+ .container{
+    align-items: center;
+    justify-content: center;
+  
+   
+   
+ }
+ .fontsize{
+    justify-content: center;
+    align-items: center;
+    display: block;
+    font-size: 10px;
+    
+   
+
+ }
+ .button{
+    border-radius: 30px;
+ }

@@ -28,4 +28,10 @@ function toggleMode() {
   
   // Check preferred color scheme on page load (optional)
   checkPreferredColorScheme();
+
+
+
+  
+  
+
   
